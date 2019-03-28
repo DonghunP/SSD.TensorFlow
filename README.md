@@ -3,9 +3,9 @@
 
 - [x] MobileNetv2 추가
 - [x] PeleeNet 추가, Uncorrect.
-- [] MobileNetv2로 VOC train 할 것. VOC mAP 확인.
-- [] MobileNetv2로 msCOCO train 할 것. msCOCO mAP 확인.
-- [] MobileNetv2로 msCOCO Pretrained된 모델로 VOC train 할 것. VOC mAP 확인.
+- [ ] MobileNetv2로 VOC train 할 것. VOC mAP 확인.
+- [ ] MobileNetv2로 msCOCO train 할 것. msCOCO mAP 확인.
+- [ ] MobileNetv2로 msCOCO Pretrained된 모델로 VOC train 할 것. VOC mAP 확인.
 
 이하 원본 ReadMe
 
