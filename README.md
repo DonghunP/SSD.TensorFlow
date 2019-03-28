@@ -1,3 +1,10 @@
+본 코드의 원본은 pierluigiferrari/ssd_keras 이며 해당 코드를 리뷰하며 공부한 것을 Wiki 탭에 정리하였습니다.
+궁금한 사항 있으시면, 메일이나 댓글 남겨주시면 답변드리겠습니다.
+
+이하 원본 ReadMe
+
+-----
+
 # State-of-the-art Single Shot MultiBox Detector in TensorFlow
 
 This repository contains codes of the reimplementation of [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325) in TensorFlow. If your goal is to reproduce the results in the original paper, please use the official [codes](https://github.com/weiliu89/caffe/tree/ssd).
